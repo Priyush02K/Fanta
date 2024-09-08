@@ -1,6 +1,6 @@
 # Welcome to Fanta!
 
-![Fanta Logo](https://link-to-your-image.com/logo.png)
+![Fanta Logo](https://priyush02k.github.io/Fanta/)
 
 ## About Fanta
 Fanta is a refreshing soft drink available in a variety of exciting flavors. Enjoy the bold and fruity taste in every sip!
@@ -11,7 +11,7 @@ Fanta is a refreshing soft drink available in a variety of exciting flavors. Enj
 - **Fanta Pineapple**
 
 ## Buy Now
-Visit our [Shop](https://example.com/shop) to grab your favorite flavor.
+Visit our [Shop](https://priyush02k.github.io/Fanta/) to grab your favorite flavor.
 
 ---
 
