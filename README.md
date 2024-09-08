@@ -10,6 +10,11 @@ Fanta is a refreshing soft drink available in a variety of exciting flavors. Enj
 - **Fanta Grape**
 - **Fanta Pineapple**
 
+## Technologies Used
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the webpage.
+- **JavaScript**: For interactive elements.
+
 ## Buy Now
 Visit our [Shop](https://priyush02k.github.io/Fanta/) to grab your favorite flavor.
 
