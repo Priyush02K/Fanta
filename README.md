@@ -1,6 +1,6 @@
 # Welcome to Fanta!
 
-![🧃🧃](https://priyush02k.github.io/Fanta/)
+[🧃🧃](https://priyush02k.github.io/Fanta/)
 
 ## About Fanta
 Fanta is a refreshing soft drink available in a variety of exciting flavors. Enjoy the bold and fruity taste in every sip!
