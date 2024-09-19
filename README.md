@@ -18,3 +18,19 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/Priyush02K/Fanta.git
+   '''
+2. Navigate to the project folder:
+bash
+Copy code
+```cd Fanta```
+3. Open the index.html file in any web browser or open the project in your preferred IDE for further development.
+
+## Features
+- Fully responsive design.
+- Interactive UI components.
+- Cross-browser compatibility.
+
+## Installation
+- Clone the repository as shown above.
+- Open the project in a web browser or IDE to start exploring the design.
+
