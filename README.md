@@ -1,26 +1,20 @@
-# Welcome to Fanta!
+# Fanta Website
 
-[🧃🧃](https://priyush02k.github.io/Fanta/)
+## Description
+**Fanta** is a front-end website designed using modern web technologies. It provides an interactive user interface featuring clean design elements and responsive layouts. The project serves as a template or base for building visually appealing websites.
 
-## About Fanta
-Fanta is a refreshing soft drink available in a variety of exciting flavors. Enjoy the bold and fruity taste in every sip!
+## Working Flow
+1. **Home Page**: Displays main content with navigation.
+2. **Interactive Sections**: Various elements respond to user interaction.
+3. **Responsive Design**: Adjusts based on screen size for optimal user experience.
 
-## Products
-- **Fanta Orange**
-- **Fanta Grape**
-- **Fanta Pineapple**
+## Technology Used
+- **HTML5**: Structuring the content.
+- **CSS3**: Styling the website.
+- **JavaScript**: Adding interactive features.
+- **Bootstrap**: For responsive layouts and components.
 
-## Technologies Used
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling the webpage.
-- **JavaScript**: For interactive elements.
-
-## Buy Now
-Visit our [Shop](https://priyush02k.github.io/Fanta/) to grab your favorite flavor.
-
----
-
-### Contact Us
-For more information, [Contact Us](mailto:contact@example.com).
-
-Follow us on [Instagram](https://instagram.com/example) and [Twitter](https://twitter.com/example).
+## Clone Repository Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Priyush02K/Fanta.git
