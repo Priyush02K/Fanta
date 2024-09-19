@@ -23,7 +23,8 @@
 bash
 Copy code
 ```cd Fanta```
-3. Open the index.html file in any web browser or open the project in your preferred IDE for further development.
+
+4. Open the index.html file in any web browser or open the project in your preferred IDE for further development.
 
 ## Features
 - Fully responsive design.
